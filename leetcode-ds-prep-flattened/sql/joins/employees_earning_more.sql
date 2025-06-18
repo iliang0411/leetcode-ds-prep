@@ -1,0 +1,1 @@
+-- SQL for finding employees earning more than their managers
