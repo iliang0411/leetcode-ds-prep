@@ -1,3 +1,5 @@
 Date,Problem,Category,Difficulty,Notes
 2025-06-18,Two Sum,Array,Easy,Learned hash map lookup vs brute force
 2025-06-19, Palindrome,Array,Easy,Slicing
+2025-06-22, RomanToInt, Array, Easy, Dictionary
+2025-06-23, longestCommonPrefix, Array, Easy, Index and nested loops
